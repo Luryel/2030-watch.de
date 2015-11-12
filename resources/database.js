@@ -233,7 +233,7 @@ var indicators = [
             "value": 494,
             "score": 3
         },
-        "United States":
+        "USA":
         {
             "value": 725,
             "score": 5
@@ -512,7 +512,7 @@ var indicators = [
             "value": 3844.1552270549,
             "score": 5
         },
-        "United Kingdom": {
+        "UK": {
             "value": 3017.7344219729,
             "score": 4
         },
@@ -612,7 +612,7 @@ var indicators = [
             "value": 1577.5793022481,
             "score": 1
         },
-        "United States": {
+        "UK": {
             "value": 6814.8231536643,
             "score": 5
         }
@@ -920,7 +920,7 @@ var indicators = [
             "value": 6.4,
             "score": 2
         },
-        "United Kingdom": {
+        "UK": {
             "value": 12.2,
             "score": 3
         },
@@ -1080,7 +1080,7 @@ var indicators = [
             "value": 2.01,
             "score": 3
         },
-        "United Kingdom": {
+        "UK": {
             "value": 3.41,
             "score": 2
         },
@@ -1141,11 +1141,11 @@ var indicators = [
             "value": 28,
             "score": 1
         },
-        "United States": {
+        "USA": {
             "value": 27,
             "score": 1
         },
-        "United Kingdom": {
+        "UK": {
             "value": 27,
             "score": 1
         },
@@ -1363,7 +1363,7 @@ var indicators = [
             "value": 138,
             "score": 1
         },
-        "United Kingdom": {
+        "UK": {
             "value": 122,
             "score": 2
         }
@@ -2077,11 +2077,11 @@ var indicators = [
             "value": 9.96,
             "score": 3
         },
-        "United Kingdom": {
+        "UK": {
             "value": 6.16,
             "score": 2
         },
-        "United States": {
+        "USA": {
             "value": 6.17,
             "score": 2
         }
@@ -2205,7 +2205,7 @@ var indicators = [
             "value": 86.3,
             "score": 5
         },
-        "United Kingdom": {
+        "UK": {
             "value": 86.7,
             "score": 5
         },
@@ -2401,7 +2401,7 @@ var indicators = [
             "value": 9.30,
             "score": 4
         },
-        "United Kingdom": {
+        "UK": {
             "value": 8.40,
             "score": 3
         },
@@ -2512,7 +2512,7 @@ var indicators = [
             "value": 14.02,
             "score": 5
         },
-        "United Kingdom": {
+        "UK": {
             "value": 10.81,
             "score": 4
         },
@@ -2608,7 +2608,7 @@ var indicators = [
             "value": 17.21,
             "score": 5
         },
-        "United States": {
+        "USA": {
             "value": 10.75,
             "score": 4
         },
@@ -2873,7 +2873,7 @@ var indicators = [
             "value": 49,
             "score": 2
         },
-        "United Kingdom": {
+        "UK": {
             "value": 43.5,
             "score": 2
         },
@@ -4137,7 +4137,7 @@ var indicators = [
             "value": 88,
             "score": 4
         },
-        "United Kingdom": {
+        "UK": {
             "value": 85,
             "score": 4
         },
@@ -4157,7 +4157,7 @@ var indicators = [
             "value": 52,
             "score": 4
         },
-        "United States": {
+        "USA": {
             "value": 26,
             "score": 5
         },
@@ -4391,7 +4391,7 @@ var indicators = [
             "value": 6.81,
             "score": 2
         },
-        "United States": {
+        "USA": {
             "value": 23.69,
             "score": 5
         },
@@ -4703,7 +4703,7 @@ var indicators = [
             "value": 16.9,
             "score": 2
         },
-        "United Kingdom": {
+        "UK": {
             "value": 24.1,
             "score": 3
         },
@@ -5052,7 +5052,7 @@ var indicators = [
             "value": 20.00,
             "score": 1
         },
-        "United Kingdom": {
+        "UK": {
             "value": 14.00,
             "score": 1
         },
@@ -5211,7 +5211,7 @@ var indicators = [
             "value": 7.9,
             "score": 2
         },
-        "United Kingdom": {
+        "UK": {
             "value": 6.1,
             "score": 2
         }
@@ -5309,7 +5309,7 @@ var indicators = [
             "value": 0.75,
             "score": 3
         },
-        "United States": {
+        "USA": {
             "value": 0.75,
             "score": 3
         },
@@ -5325,7 +5325,7 @@ var indicators = [
             "value": 0.74,
             "score": 3
         },
-        "United Kingdom": {
+        "UK": {
             "value": 0.74,
             "score": 3
         },
@@ -12598,7 +12598,7 @@ var indicators = [
             "value": 2.6961335721,
             "score": 5
         },
-        "United States":
+        "USA":
         {
             "value": 30.3994353522,
             "score": 2
