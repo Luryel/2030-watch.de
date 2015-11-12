@@ -612,7 +612,7 @@ var indicators = [
             "value": 1577.5793022481,
             "score": 1
         },
-        "United States": {
+        "USA": {
             "value": 6814.8231536643,
             "score": 5
         }
