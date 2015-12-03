@@ -2,7 +2,10 @@
     "original-title": "Share of renewable energy in gross final energy consumption",
     "original indicator code": "",
     "our title": "Anteil erneuerbarer Energien",
-    "indicator description": "Dieser Indikator misst den Anteil erneuerbarer Energien anhand des kompletten Energieverbrauchs eines Landes.",
+    "short indicator description_de": "Dieser Indikator misst den Anteil erneuerbarer Energien anhand des kompletten Energieverbrauchs eines Landes.",
+    "short indicator description_en": "The indicator measures the share of renewable energy in gross final energy consumption.",
+    "long indicator description_de": "Dieser Indikator ist ein offizieller Indikator für nachhaltige Entwicklung der EU. Er misst den Anteil des nationalen Energieverbrauchs, der aus erneuerbaren Energien gedeckt wird. Der Indikator beinhaltet den Energieverbrauch für Stromerzeugung, für Transport sowie für Heizen und Kühlen. Dieser Indikator ist Teil der deutschen Nachhaltigkeitsstrategie (Okt 2015)",
+    "long indicator description_en": "This indicator is part of the sustainable development framework of the EU and is calculated on the basis of data covered by Regulation (EC) No 1099/2008 on energy statistics. It measures the share of energy consumption from renewable energy sources at national level. The indicator includes energy consumption for electricity, for transport and for heating and cooling.",
     "unit": "Prozent (%)",
 
     "method": "",
