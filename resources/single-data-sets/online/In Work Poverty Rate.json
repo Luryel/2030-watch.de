@@ -1,9 +1,11 @@
 {
     "original-title": "In Work Poverty Rate",
-    "original indicator code": "",
+    "original indicator code": "ilc_iw07",
     "our title": "Armutsrate trotz Erwerbstätigkeit",
     "short indicator description_de": "Anteil der Vollzeiterwerbstätigen, die einem Armutsrisiko ausgesetzt sind.",
     "short indicator description_en":"Share of full-time employees exposed to a threat of poverty",
+   "long indicator description_de": "",
+    "long indicator description_en": "", 
     "unit": "Prozent",
     "method": "",
     "method-short-description": "",
